@@ -5,7 +5,6 @@ import { Provider } from 'react-redux';
 import './style.scss';
 
 import App from './components/app.js';
-import Numbers from './components/numbers';
 
 import createStore from './store/';
 const store = createStore();
